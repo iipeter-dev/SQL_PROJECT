@@ -17,3 +17,23 @@ Danny has shared with you 3 key datasets for this case study:
 - sales
 - menu
 - members
+
+## Entity Diagram
+![](entity.jpg)
+
+# Inserting Data into sales, menu and members table
+- Sales
+![](insert_sales.jpg)
+- Menu
+![](insert_menu.jpg)
+- Members
+![](insert_member.jpg)
+
+# Tables
+- Sales
+![](sale_table.jpg)
+- Menu
+![](menu_table.jpg)
+- Members
+![](member_table.jpg)
+
