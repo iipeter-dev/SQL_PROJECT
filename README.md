@@ -1,7 +1,7 @@
 # SQL_PROJECT
 ![](danny.png)
 ## Introduction
-Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
+Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: 🍣 sushi,  curry🍛 and ramen 🍜.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
@@ -41,22 +41,44 @@ Danny has shared with you 3 key datasets for this case study:
 # Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
 
-What is the total amount each customer spent at the restaurant?
+- What is the total amount each customer spent at the restaurant?
 ![](Answer1.jpg)
+
 ![](R1.jpg)
-How many days has each customer visited the restaurant?
+- How many days has each customer visited the restaurant?
 ![](A2.jpg)
-What was the first item from the menu purchased by each customer?
+
+- What was the first item from the menu purchased by each customer?
 ![](A3.jpg)
+
 ![](R3.jpg)
-What is the most purchased item on the menu and how many times was it purchased by all customers?
+
+- What is the most purchased item on the menu and how many times was it purchased by all customers?
 ![](A4.jpg)
+
 ![](R4.jpg)
-Which item was the most popular for each customer?
+
+-Which item was the most popular for each customer?
 ![](A5_1jpg)
-Which item was purchased first by the customer after they became a member?
-Which item was purchased just before the customer became a member?
-What is the total items and amount spent for each member before they became a member?
-If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
-In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+![](A5_2.jpg)
+
+![](A5_3.jpg)
+
+- Which item was purchased first by the customer after they became a member?
+![](a6.jpg)
+
+
+- Which item was purchased just before the customer became a member?
+![](a7.jpg)
+
+- What is the total items and amount spent for each member before they became a member?
+![](a8.jpg)
+
+
+- If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+
+- ![](a9.jpg)
+
+-In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just 🍣 - how many points do customer A and B have at the end of January?
 
