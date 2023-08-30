@@ -66,8 +66,8 @@ Each of the following case study questions can be answered using a single SQL st
 ![](A5_3.jpg)
 
 - Which item was purchased first by the customer after they became a member?
-![](a6.jpg)
-
+![](a6null.jpg)
+This returns null i.e empty
 
 - Which item was purchased just before the customer became a member?
 ![](a7.jpg)
