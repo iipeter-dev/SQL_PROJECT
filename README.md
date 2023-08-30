@@ -58,7 +58,7 @@ Each of the following case study questions can be answered using a single SQL st
 
 ![](R4.jpg)
 
--Which item was the most popular for each customer?
+- Which item was the most popular for each customer?
 ![](A5_1jpg)
 
 ![](A5_2.jpg)
@@ -78,7 +78,8 @@ Each of the following case study questions can be answered using a single SQL st
 
 - If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
-- ![](a9.jpg)
+![](a9.jpg)
 
--In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just 🍣 - how many points do customer A and B have at the end of January?
+- In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just 🍣 - how many points do customer A and B have at the end of January?
 
+![](a10.jpg)
